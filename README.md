@@ -1,3 +1,3 @@
 # DUPLA
-## André Sampaio - 06  ---  Matheus Ponzio - 27
-# 💪💪💪💪💪
+## Beatriz Avigo N°09   Vitor Baffini N°36
+
