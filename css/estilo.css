@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(118, 15, 192);
+  color: rgb(255, 255, 255);
+}
+.calculadora {
+  background-color: rgb(161, 132, 201);
+  padding: 8px;
+  width: 220px;
+  text-align: center;
+  border-radius: 10px;
+}
+.display_calc {
+  background-color: transparent;
+  text-align: center;
+}
+#resultado {
+  padding: 2px;
+  background-color: black;
+  color: rgb(39, 120, 121);
+  text-align: right;
+}
+button {
+  width: 40px;
+  height: 40px;
+  margin: 3px;
+}
+#bnt_igual {
+  background-color: rgb(90, 11, 102);
+}
