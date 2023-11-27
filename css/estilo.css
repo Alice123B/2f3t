@@ -1,29 +1,55 @@
 body {
-  background-color: rgb(116, 16, 141);
-  color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
-.calculadora{
-  background-color: rgb(26, 26, 44);
-  padding: 8px;
-  width: 220px;
-  text-align: center;
-  border-radius: 10px;
+.calculadora {
+    background-color: rgb(112, 129, 129);
+    padding: 8px;
+    width: 220px;
+    text-align: center;
+    border-radius: 10px;
 }
-.display_calc{
-  background-color: rgb(121, 117, 124);
-  text-align: center;
+.display_calc {
+    background-color: transparent;
+    text-align: center;
 }
-#resltado{
-  padding: 2px;
-  background-color: black;
-  color:aqua;
-  text-align: center;
+#resultado {
+    padding: 2px;
+    background-color: black;
+    color: yellow;
+    text-align: center;
 }
-button{
-  width: 40px;
-  height: 40px;
-  margin: 3px;
+button {
+    width: 40px;
+    height: 40px;
+    margin: 3px;
 }
-#btn_igual{
-  background-color:rgb(212, 0, 255) ;
+#btn_igual {
+    background-color: tomato;
+}
+.entrada{
+    width: 40px;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    border: none;
+    border-bottom: 2px solid #fff ;
+}
+.pa {
+    width: 100%;
+    background-color: rgba(255, 208, 208, 0.815);
+    padding: 20px;
+    color: black;
+}
+.calculaPA input {
+    width: 48px;
+    border: none;
+    border: 1px solid #000;
+}
+.paisagem {
+    width: 90%;
+    height: 90%;
+}
+#figura {
+    width: 1080px;
+    height: 720px;
 }

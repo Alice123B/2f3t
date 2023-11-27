@@ -1,3 +1,1 @@
-# DUPLA
-## Beatriz Avigo - 09 ---  Vitor Baffini - 36
-
+## Nome Beatriz Avigo  - 09 --- Nome Vitor Baffini - 36
